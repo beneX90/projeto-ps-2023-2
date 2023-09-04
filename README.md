@@ -258,7 +258,7 @@ Um dos aspectos notáveis do sistema é sua ênfase na visualização interativa
 
 | Opção | Descrição |
 | ----- | --------- |
-| Função "Editar de Forma Intuitiva" | Acesso à funcionalidade de edição de dados beneX90. |
+| Função "Editar de Forma Intuitiva" | Acesso à funcionalidade de edição de dados. |
 | Interface de Edição | Ferramentas interativas para editar os atributos do objeto. |
 | Salvar | Opção para salvar as edições feitas. |
 
@@ -266,7 +266,7 @@ Um dos aspectos notáveis do sistema é sua ênfase na visualização interativa
 
 | User Story | Critério de Avaliação |
 | ---------- | --------------------- |
-| Como um usuário do TouchMap, desejo poder editar os dados beneX90 de forma intuitiva para corrigir ou melhorar as informações de
+| Como um usuário do TouchMap, desejo poder editar os dados de forma intuitiva para corrigir ou melhorar as informações de
 
  acessibilidade no campus. | Certificar que o usuário pode editar os atributos do objeto de forma intuitiva, salvar as edições e que as edições são refletidas no objeto selecionado. |
 
